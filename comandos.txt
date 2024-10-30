@@ -1,0 +1,182 @@
+    1  sudo
+    2  sudo -i
+    3  sudo poweroff 
+    4  /$cd ~
+    5  cd
+    6  cd 
+    7  cd/
+    8  cd / 
+    9  cd ~
+   10  pwd
+   11  ls
+   12  ls -lh
+   13  mkdir
+   14  mkdir --help
+   15  man mkdir
+   16  pwd
+   17  mkdir SENAC
+   18  ls
+   19  mkdir senac
+   20  ls
+   21  cd SENAC/
+   22  cd/
+   23  cd /
+   24  cd ~/SENAC/
+   25  cd SENAC
+   26  mkdir -v TAT PEN CAS
+   27  cd TAT/
+   28  mkdir -v TEI TST 
+   29  ls
+   30  cd TEI
+   31  pwd
+   32  cd ..
+   33  cd ~/SENAC/TAT/TEI/
+   34  ..
+   35  CD ../../PEN/
+   36  cd ../
+   37  cd ../../
+   38  cd ~/SENAC/TAT/TEI/
+   39  cd ../../
+   40  cd ../../PEN
+   41  cd PEN
+   42  mkdir -v TEI TST
+   43  mkdir - TEI TST
+   44  ls -lha
+   45  cd PEN
+   46  cd TEI
+   47  echo
+   48  echo TSI
+   49  echo SENAC Tatuapé
+   50  echo "SENAC Tatuapé"
+   51  echo "SENAC Tatuapé Técnico em Informática"
+   52  echo "SENAC Tatuapé Técnico em Informática" > teste.txt
+   53  ls
+   54  ls -lh
+   55  echo "Jennifer Oliveira" > teste01.txt
+   56  ls
+   57  ls -lh
+   58  touch
+   59  echo > senac.txt
+   60  ls -lh
+   61  touch sesc.txt
+   62  ls -lh
+   63  touch sesc.txt
+   64  ls -lh
+   65  echo Tatuapé > senac.txt
+   66  ls -lh
+   67  echo Penha > senac.txt
+   68  ls -lh
+   69  git
+   70  sudo apt install git
+   71  sudo apt update
+   72  sudo apt upgrade
+   73  ls -lh
+   74  cd SENAC
+   75  cd TAT
+   76  cd TEI
+   77  touch senac.txt senai.txt sesc.txt
+   78  lh -lh
+   79  ls -lh
+   80  echo "Tatuapé" > senac.txt 
+   81  echo "Guarulhos" > senai.txt 
+   82  echo "Brás" > sesc > sesc.txt 
+   83  echo "Itaquera" >> senac.txt senai.txt
+   84  echo "Itaquera" >> senai.txt
+   85  cat senai.txt
+   86  echo "Brás" >> senai.txt
+   87  cat -n senai.txt
+   88  tac senai.txt
+   89  tac -n senai.txt | tac
+   90  cat -n senai.txt | tac
+   91  ls -lh
+   92  rm -v sesc.txt
+   93  rm -v TEI
+   94  rm -Rv TST
+   95  ls -lh
+   96  cd ../
+   97  rm -Rv TST
+   98  ls -lh
+   99  cd Jennifer_Oliveira/
+  100  ls -lh
+  101  cd BEL/
+  102  touch danca.txt
+  103  ls
+  104  echo "Danças Brasileiras" > danca.txt
+  105  echo "Dança de Salão" >> danca.txt
+  106  less danca.txt 
+  107  cd ../
+  108  cd SAN/
+  109  touch  natacao.md
+  110  echo "crawl" > natacao.md
+  111  echo "Peito" >> natacao.md
+  112  echo "Costas" >>> natacao.md
+  113  echo "Costas" >> natacao.md
+  114  echo "Borboleta" >> natacao.md
+  115  less natacao.md 
+  116  cd ../
+  117  cd ITA/
+  118  touch capoeira.sh
+  119  ls
+  120  echo "Meia Lua de Frente" > capoeira.sh
+  121  echo "Meia Lua de Compasso" >> capoeira.sh
+  122  echo "Pisão Rodado" >> capoira.sh
+  123  touch capoeira.sh
+  124  echo "Meia Lua de Frente" > capoeira.sh
+  125  echo "Meia Lua de Compasso" >> capoeira.sh
+  126  echo "Pisão Rodado" >> capoeira.sh
+  127  less capoeira.sh
+  128  cd ../
+  129  mkdir SENAI
+  130  cd SENAI/
+  131  mkdir BRA GUA TAT PJS
+  132  ls - lh
+  133  ls
+  134  cd BRA/
+  135  mkird Tornearia Fresagem Soldagem
+  136  mkdir Tornearia Fresagem Soldagem
+  137  ls -lh
+  138  cd Tornearia/
+  139  touch cal_nov_2024.txt
+  140  ls -lh
+  141  echo "Turma A :1/11 até 31/12" > cal_nov_2024.txt
+  142  less cal_nov_2024.txt
+  143  cd ../
+  144  cd F
+  145  cd Fresagem/
+  146  touch cal_dez_2024.txt
+  147  echo "Turma B: 1:12 até 31/12" > cal_dez_2024.txt
+  148  less cal_dez_2024.txt
+  149  cd ../
+  150  cd Soldagem/
+  151  touch cal_jan_2024.txt
+  152  echo "Turma C: 01/01 até 31/01" > cal_jan_2024.txt
+  153  less cal_jan_2024.txt
+  154  cd../
+  155  cd ../
+  156  cd GUA/
+  157  mkdir Eletricista
+  158  cd Eletricista/
+  159  touch cal_jan_2025.txt
+  160  echo "Turma A: 01/01 até 31/01" > cal_jan_2025.txt
+  161  less cal_jan_2025.txt
+  162  cd ../
+  163  cd TAT/
+  164  mkdir Drywall
+  165  touch cal_nov_2024.txt
+  166  echo "Turma A: 01/11 até 30/11" > cal_nov_2024.txt
+  167  less cal_nov_2024.txt
+  168  cd ../
+  169  PJS
+  170  cd SENAI
+  171  cd PJS/
+  172  mkdir Empilhadeira
+  173  cd Empilhadeira/
+  174  touch cal_jan_2025.txt
+  175  echo "Turma A: 01/11 até 31/01" > cal_jan_2025.txt
+  176  less cal_jan_2025.txt 
+  177  cd ../
+  178  sudoapt install tree
+  179  sudo apt install tree
+  180  tree -h Jennifer_Oliveira/
+  181  history
+  182  history >comandos.txt
